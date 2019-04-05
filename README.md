@@ -5,6 +5,21 @@ You cannot spell ALMIGHTY without git
 
 This is a repository containing ...
 
+We use git flow for out workflows - main branches are
+- master
+- hotfix
+- develop
+- feature
+
+Remember to 
+- pull frequently (never less than daily)
+- pull often - IT IS SAFE! 
+- pull first thing in the morning 
+- pull BEFORE you push
+- pull before you go offline
+- commit early and Commit often 
+- not pull with untracked changes
+
 # Maintainer/Contributor Guidelines
 
 - [Contributors Guide](CONTRIBUTORS.md)
