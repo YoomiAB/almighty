@@ -1,4 +1,4 @@
-# almighty
+# ALMIGHTY
 You cannot spell ALMIGHTY without git
 
 # General Guidelines
