@@ -44,3 +44,6 @@ Templates all use the same placeholders, which can be replaced en masse:
   publication until most recent update.
 - `{org}` refers to the github organization under which the package will live.
 - `{repo}` is the name of the repository.
+
+## More info
+Example: https://github.com/zendframework/maintainers
