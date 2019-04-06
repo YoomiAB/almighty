@@ -11,6 +11,12 @@ We use git flow for out workflows - main branches are
 - develop
 - feature
 
+Branch naming shall follow standard: changeType/changeNo/shortName
+- bug/001/menu_issue
+- feat/001/registration_confirm_email
+
+Example commit message template can be found in [.gitmessage.txt](.gitmessage.txt)
+
 Remember to 
 - pull frequently (never less than daily)
 - pull often - IT IS SAFE! 
